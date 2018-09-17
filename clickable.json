@@ -1,0 +1,5 @@
+{
+  "template": "cmake",
+  "kill": "qmlscene",
+  "default": "kill clean build click-build install launch logs"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "themeswitcher.mymike",
+    "description": "switch the system theme from SuruDark to Ambiance",
+    "architecture": "@CLICK_ARCH@",
+    "title": "theme-switcher",
+    "hooks": {
+        "themeswitcher": {
+            "apparmor": "themeswitcher.apparmor",
+            "desktop":  "themeswitcher.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Michele Castellazzi <miguel2000@livecom.it>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}

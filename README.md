@@ -1,2 +1,2 @@
 # themeswitcher
-a Ubuntu Touch app that lets you to change the system-wide theme
+a Ubuntu Touch app that lets you to switch the system-wide theme between SuruDark and Ambiance
