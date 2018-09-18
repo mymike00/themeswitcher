@@ -54,6 +54,7 @@ MainView {
             onClicked: {
                console.log(Switch.switchTheme(page.shortTheme, Switch.nextTheme()))
                page.fullTheme = Switch.fullTheme()
+               theme.name = page.fullTheme
             }
          }
       }
